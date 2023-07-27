@@ -2,3 +2,6 @@
 function addTwoNums(a, b) {
     console.log(a + b);
 }
+
+// Task 2: Invoke the addTwoNums function with a number and a string
+addTwoNums(5, "5")
